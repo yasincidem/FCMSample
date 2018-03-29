@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665770694173",
+    "project_id": "pushnotification-a8b7a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665770694173:android:a7729d4831f1ad36",
+        "android_client_info": {
+          "package_name": "com.yasincidem.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665770694173-42l4uta06vqefmn99l4f511hqn8j7244.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1n73LfP2P3CQ8Aw7JcIJwyaFlX-qW3-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
